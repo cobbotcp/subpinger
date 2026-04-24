@@ -7,6 +7,8 @@ Ping an entire **IPv4 subnet** from a Windows console: one sweep at a time, **in
 *Built for Windows only* (uses the system ICMP API).
 
 ## Run
+download:
+https://github.com/cobbotcp/subpinger/releases/download/v1.0.0/subpinger.exe
 
 ```bat
 subpinger.exe 70.70.70.0/24
